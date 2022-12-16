@@ -1,6 +1,6 @@
 # Kodluyoruz Ilk Repo
 Bu repo Kodluyoruz Front-End eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
-![markdown resim](https://prnt.sc/2suNfb9JKXTO)
+![markdown resim](https://imgyukle.com/f/2022/12/16/JB2Jnp.jpeg)
 # Installation
 Öncelikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
 
